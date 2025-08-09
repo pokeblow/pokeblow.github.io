@@ -25,7 +25,8 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 ACM MM 2025 Accepted
+- *2025.06*: &nbsp;🎉🎉 New paper on Xray Synthesis is accepted by ACM MM 2025.
+
 
 # 📝 Publications 
 
@@ -54,7 +55,18 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 </div>
 </div>
 
-- [A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915), **Haolin Wang**, Yafei Ou, Wanxuan Fang, Prasoon Ambalathankandy, Naoto Goto, Gen Ota, Taichi Okino, Jun Fukae, Kenneth Sutherland, Masayuki Ikebe, Tamotsu Kamishima **CMIG**
+
+<div class='paper-box'><div class="badge">CMIG</div></div>
+<div class='paper-box-text' markdown="1">
+
+[A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915)
+
+**Haolin Wang**, Yafei Ou, Wanxuan Fang, Prasoon Ambalathankandy, Naoto Goto, Gen Ota, Taichi Okino, Jun Fukae, Kenneth Sutherland, Masayuki Ikebe, Tamotsu Kamishima
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='lByt8z4AAAAJ:9yKSN-GCB0IC'></span></strong>
+
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
