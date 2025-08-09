@@ -18,12 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Ph.D. student of Health Science in Hokkaido University. My research interests include deep learning, medical image analysis, quantitative assessment of rheumatoid arthritis, and synthetic data for conventional radiography. I has published first-author papers in top-tier conferences AAAI and ACM MM, and serves as a Program Committee member for AAAI.
+I am 王昊霖 (Haolin Wang), a Ph.D. student of Health Science in Hokkaido University. My research interests include deep learning, medical image analysis, quantitative assessment of rheumatoid arthritis, and synthetic data for conventional radiography. I has published first-author papers in top-tier conferences AAAI and ACM MM, and serves as a Program Committee member for AAAI.
 
 I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hokudai.jp/e_index.html) of Kamishima Lab from [Faculty of Health Sciences](https://www.hs.hokudai.ac.jp/e/).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -31,14 +30,14 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[BLS-Gan: A deep layer separation framework for eliminating bone overlap in conventional radiographs]('https://ojs.aaai.org/index.php/AAAI/article/view/32826/34981')
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Haolin Wang**, Yafei Ou, Prasoon Ambalathankandy, Gen Ota, Pengyu Dai, Masayuki Ikebe, Kenji Suzuki, Tamotsu Kamishima
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='lByt8z4AAAAJ:IjCSPb-OGe4C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
