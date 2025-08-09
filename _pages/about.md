@@ -66,7 +66,7 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='lByt8z4AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 </div>
-</div>
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
