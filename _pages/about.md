@@ -56,14 +56,11 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 </div>
 
 
-<div class='paper-box'><div class="badge">CMIG</div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class="badge">CMIG</div>
 
-[A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915)
+[A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915)[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='lByt8z4AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 **Haolin Wang**, Yafei Ou, Wanxuan Fang, Prasoon Ambalathankandy, Naoto Goto, Gen Ota, Taichi Okino, Jun Fukae, Kenneth Sutherland, Masayuki Ikebe, Tamotsu Kamishima
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='lByt8z4AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 </div>
 
