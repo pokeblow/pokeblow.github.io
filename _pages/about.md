@@ -56,17 +56,18 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 
 - [A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915), **Haolin Wang**, Yafei Ou, Wanxuan Fang, Prasoon Ambalathankandy, Naoto Goto, Gen Ota, Taichi Okino, Jun Fukae, Kenneth Sutherland, Masayuki Ikebe, Tamotsu Kamishima **CMIG**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025/04/01 - 2028/03/31*, Ph.D. Health Science, Hokkaido University, Japan
+- *2023/04/01 - 2025/03/31*, M.D. Health Science, Hokkaido University, Japan
+- *2018/09/01 - 2022/06/30*, B.S. Software Engineering, Northwest University, China 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.07 - 2021.08*, Internship of Risk Management, PwC Beijing Office
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
