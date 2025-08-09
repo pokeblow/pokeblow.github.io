@@ -55,17 +55,18 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 </div>
 </div>
 
-- [A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:9yKSN-GCB0IC) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/CMIG-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Haolin Wang**, Yafei Ou, Wanxuan Fang, Prasoon Ambalathankandy, Naoto Goto, Gen Ota, Taichi Okino, Jun Fukae, Kenneth Sutherland, Masayuki Ikebe, Tamotsu Kamishima
-
-- [A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915)
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:9yKSN-GCB0IC) 
+[A deep registration method for accurate quantification of joint space narrowing progression in rheumatoid arthritis](https://www.sciencedirect.com/science/article/pii/S0895611123000915)
 
 **Haolin Wang**, Yafei Ou, Wanxuan Fang, Prasoon Ambalathankandy, Naoto Goto, Gen Ota, Taichi Okino, Jun Fukae, Kenneth Sutherland, Masayuki Ikebe, Tamotsu Kamishima
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:9yKSN-GCB0IC)  <strong><span class='show_paper_citations' data='lByt8z4AAAAJ:9yKSN-GCB0IC'></span></strong>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
 
 
 <!-- # 🎖 Honors and Awards
