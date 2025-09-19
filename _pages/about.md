@@ -25,10 +25,24 @@ I am very fortunate to be advised by [Prof. Kamishima](https://kamishima.hs-hoku
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 New paper on Dataset and Benchmark is accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 New paper on Xray Synthesis is accepted by ACM MM 2025.
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NIPS-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis]('https://arxiv.org/abs/2507.05193')
+
+Songxiao Yang, **Haolin Wang**, Yao Fu, Ye Tian, Tamotsu Kamishima, Masayuki Ikebe, Yafei Ou, Masatoshi Okutomi
+
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:zYLM7Y9cAGgC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=lByt8z4AAAAJ&citation_for_view=lByt8z4AAAAJ:Y0pCki6q_DkC)) <strong><span class='show_paper_citations' data='lByt8z4AAAAJ:zYLM7Y9cAGgC'></span></strong>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ACMMM-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
